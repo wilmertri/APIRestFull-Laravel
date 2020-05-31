@@ -1,0 +1,955 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ru",
+				"$rules〔variable〕"
+			],
+			[
+				"t",
+				"$transactions〔variable〕"
+			],
+			[
+				"sell",
+				"$sellers〔variable〕"
+			],
+			[
+				"p",
+				"$products〔variable〕"
+			],
+			[
+				"tra",
+				"$transacciones〔variable〕"
+			],
+			[
+				"pro",
+				"$product〔variable〕"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"cate",
+				"$category〔variable〕"
+			],
+			[
+				"show",
+				"showOne"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"cat",
+				"$category〔variable〕"
+			],
+			[
+				"S",
+				"SoftDeletes〔trait〕"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"espe",
+				"especificado"
+			],
+			[
+				"Aut",
+				"AuthorizationException"
+			],
+			[
+				"exc",
+				"$exception〔variable〕"
+			],
+			[
+				"A",
+				"AuthenticationException"
+			],
+			[
+				"Vali",
+				"ValidationException"
+			],
+			[
+				"ex",
+				"$exception〔variable〕"
+			],
+			[
+				"home",
+				"homestead"
+			],
+			[
+				"M",
+				"ModelNotFoundException〔class〕"
+			],
+			[
+				"error",
+				"errorResponse"
+			],
+			[
+				"Val",
+				"ValidationException"
+			],
+			[
+				"erros",
+				"$errors〔variable〕"
+			],
+			[
+				"ve",
+				"$vendedores〔variable〕"
+			],
+			[
+				"com",
+				"$compradores〔variable〕"
+			],
+			[
+				"us",
+				"$usuario〔variable〕"
+			],
+			[
+				"u",
+				"$usuario〔variable〕"
+			],
+			[
+				"usuari",
+				"$usuarios〔variable〕"
+			],
+			[
+				"co",
+				"$code〔variable〕"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"strt",
+				"strtolower〔function〕"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"use",
+				"$user〔variable〕"
+			],
+			[
+				"USUAR",
+				"USUARIO_REGULAR"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"cant",
+				"$cantidadTransacciones〔variable〕"
+			],
+			[
+				"Tra",
+				"Transaction〔namespace〕"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"can",
+				"$cantidadCategorias〔variable〕"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"F",
+				"Facades〔namespace〕"
+			],
+			[
+				"ran",
+				"randomElement〔function〕"
+			],
+			[
+				"num",
+				"numberBetween〔function〕"
+			],
+			[
+				"fa",
+				"$faker〔variable〕"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"bel",
+				"belongsTo〔function〕"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"fun\tfunction …"
+			],
+			[
+				"ver",
+				"verification_token"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 2467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Seller/SellerBuyerController.php",
+			"settings":
+			{
+				"buffer_size": 792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/seeds/DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 1162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Product.php",
+			"settings":
+			{
+				"buffer_size": 937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/factories/ModelFactory.php",
+			"settings":
+			{
+				"buffer_size": 2207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2019_04_18_175940_create_products_table.php",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Seller.php",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Buyer/BuyerTransactionController.php",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Category/CategoryBuyerController.php",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"AutoI",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/wilme/APIRESTful",
+		"/C/Users/wilme/APIRESTful/app",
+		"/C/Users/wilme/APIRESTful/app/Http",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Buyer",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Category",
+		"/C/Users/wilme/APIRESTful/app/Traits",
+		"/C/Users/wilme/APIRESTful/database",
+		"/C/Users/wilme/APIRESTful/database/factories",
+		"/C/Users/wilme/APIRESTful/database/migrations",
+		"/C/Users/wilme/APIRESTful/database/seeds",
+		"/C/Users/wilme/APIRESTful/public",
+		"/C/Users/wilme/APIRESTful/public/img"
+	],
+	"file_history":
+	[
+		"/C/Users/wilme/APIRESTful/app/Product.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Seller/SellerProductController.php",
+		"/C/Users/wilme/APIRESTful/app/Exceptions/Handler.php",
+		"/C/Users/wilme/APIRESTful/app/Traits/ApiResponser.php",
+		"/C/Users/wilme/APIRESTful/app/Providers/AppServiceProvider.php",
+		"/C/Users/wilme/APIRESTful/app/Providers/RouteServiceProvider.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Seller/SellerTransactionController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Seller/SellerCategoryController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Category/CategoryBuyerController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Category/CategoryProductController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Category/CategorySellerController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Category/CategoryTransactionController.php",
+		"/C/Users/wilme/APIRESTful/app/Buyer.php",
+		"/C/Users/wilme/APIRESTful/app/Transaction.php",
+		"/C/Users/wilme/APIRESTful/app/Category.php",
+		"/C/Users/wilme/APIRESTful/.env",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Buyer/BuyerController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Transaction/TransactionController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Buyer/BuyerCategoryController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Buyer/BuyerSellerController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Buyer/BuyerProductController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Buyer/BuyerTransactionController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Transaction/TransactionSellerController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Transaction/TransactionCategoryController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/User/UserController.php",
+		"/C/Users/wilme/APIRESTful/app/User.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Category/CategoryController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Product/ProductController.php",
+		"/C/Users/wilme/APIRESTful/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/wilme/APIRESTful/app/Scopes/SellerScope.php",
+		"/C/Users/wilme/APIRESTful/database/migrations/2019_04_18_175940_create_products_table.php",
+		"/C/Users/wilme/APIRESTful/database/migrations/2019_04_18_180146_create_transactions_table.php",
+		"/C/Users/wilme/APIRESTful/database/migrations/2019_04_18_180346_create_categories_table.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Seller/SellerController.php",
+		"/C/Users/wilme/APIRESTful/Homestead.yaml",
+		"/C/Users/wilme/APIRESTful/composer.json",
+		"/C/Users/wilme/APIRESTful/app/Seller.php",
+		"/C/Users/wilme/APIRESTful/app/Scopes/BuyerScope.php",
+		"/C/Users/wilme/APIRESTful/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php",
+		"/C/Users/wilme/APIRESTful/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/C/Users/wilme/APIRESTful/vendor/laravel/framework/src/Illuminate/Database/QueryException.php",
+		"/C/Users/wilme/APIRESTful/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php",
+		"/C/Users/wilme/APIRESTful/vendor/symfony/debug/ExceptionHandler.php",
+		"/C/Users/wilme/APIRESTful/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php",
+		"/C/Users/wilme/APIRESTful/Vagrantfile",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/ApiController.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Controller.php",
+		"/C/Users/wilme/APIRESTful/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/Users/wilme/APIRESTful/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/C/Users/wilme/APIRESTful/database/seeds/DatabaseSeeder.php",
+		"/C/Users/wilme/APIRESTful/database/factories/ModelFactory.php",
+		"/C/Users/wilme/APIRESTful/routes/api.php",
+		"/C/Users/wilme/APIRESTful/config/database.php",
+		"/C/Users/wilme/APIRESTful/database/migrations/2019_08_07_214228_category_product_table.php",
+		"/C/Users/wilme/APIRESTful/routes/web.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/wilme/APIRESTful/routes/console.php",
+		"/C/Users/wilme/APIRESTful/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/wilme/APIRESTful/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/Users/wilme/APIRESTful/vendor/symfony/console/composer.json",
+		"/C/Users/wilme/APIRESTful/vendor/bin/homestead.bat"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transactions",
+			"Eloquent",
+			"Model",
+			"query",
+			"MethodNotAllowedHttpException",
+			"NotFoundHttpException",
+			"nullable",
+			"\n/**\n *  Buyers\n */\nRoute::resource('buyers','Buyer\\BuyerController',['only' => ['index','show']]);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.14.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.17.region_keys":
+							[
+							],
+							"SL.27.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/Seller/SellerBuyerController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								662,
+								662
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.20.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database/seeds/DatabaseSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.23.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 257.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.26.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "database/factories/ModelFactory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.24.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "database/migrations/2019_04_18_175940_create_products_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"SL.25.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Seller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+							],
+							"SL.19.region_keys":
+							[
+							],
+							"SL.36.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Http/Controllers/Buyer/BuyerTransactionController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.19.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.20.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/Http/Controllers/Category/CategoryBuyerController.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "APIRestful.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Prod",
+				"app\\Product.php"
+			],
+			[
+				"Pro",
+				"app\\Product.php"
+			],
+			[
+				"Cate",
+				"app\\Category.php"
+			],
+			[
+				"Trans",
+				"app\\Transaction.php"
+			],
+			[
+				"S",
+				"app\\Seller.php"
+			],
+			[
+				"cate",
+				"app\\Category.php"
+			],
+			[
+				"Tra",
+				"app\\Transaction.php"
+			],
+			[
+				"Quer",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\QueryException.php"
+			],
+			[
+				"MethodNo",
+				"vendor\\symfony\\http-kernel\\Exception\\MethodNotAllowedHttpException.php"
+			],
+			[
+				"NotFound",
+				"vendor\\symfony\\http-kernel\\Exception\\NotFoundHttpException.php"
+			],
+			[
+				"NotF",
+				"vendor\\symfony\\http-kernel\\Exception\\NotFoundHttpException.php"
+			],
+			[
+				"Illuminate/Foundation/Ex",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"Model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\ModelNotFoundException.php"
+			],
+			[
+				"Hand",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"Exce",
+				"vendor\\symfony\\debug\\ExceptionHandler.php"
+			],
+			[
+				"Collection",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
