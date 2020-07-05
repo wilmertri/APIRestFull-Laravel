@@ -7,6 +7,7 @@ use App\User;
 use App\Product;
 use Illuminate\Http\Request;
 use App\Http\Controllers\ApiController;
+use Illuminate\Support\Facades\Storage;
 
 class SellerProductController extends ApiController
 {
@@ -41,7 +42,7 @@ class SellerProductController extends ApiController
         $data = $request->all();
 
         $data['status'] = Product::PRODUCTO_NO_DISPONIBLE;
-        $data['image'] = 'product1.png';
+        $data['image'] = $request->image->store('');
         $data['seller_id'] = $seller->id;
 
         $product = Product::create($data);
@@ -85,6 +86,12 @@ class SellerProductController extends ApiController
             }
         }
 
+        if($request->hasFile('image'))
+        {
+            Storage::delete($product->image);
+            $product->image = $request->image->store('');
+        }
+
         if($product->isClean())
         {
             return $this->errorResponse('Se debe especificar al menos un valor diferente para actualizar', 422);
@@ -105,6 +112,7 @@ class SellerProductController extends ApiController
     public function destroy(Seller $seller, Product $product)
     {
         $this->verificarVendedor($seller, $product);
+        Storage::delete($product->image);
         $product->delete();
 
         return $this->showOne($product);
